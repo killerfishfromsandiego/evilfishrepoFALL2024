@@ -102,3 +102,37 @@ How to Run
     Navigate to the directory where the script is located.
     Run the script using the command
     python trivia_game.py
+
+
+GPTPROGRAM5.py NOTES:
+Color Text Display Program
+Overview
+
+This program allows users to display text in various colors using functions. Users can choose a specific color to format their input text, enhancing the visual experience.
+Features
+
+    Five functions to change the text color (red, green, blue, yellow, brown).
+    Displays pre-defined messages in different colors.
+    Allows user input for custom color and text.
+
+Requirements
+
+    Python 3.x (works in terminal/command line that supports ANSI escape codes)
+
+How to Run
+
+    Clone the repository or download the script.
+    Open your terminal or command prompt.
+    Navigate to the directory where the script is located.
+    Run the script using the command:
+
+    bash
+
+    python color_text.py
+
+User Instructions
+
+    Upon starting the program, you will see a welcome message and text displayed in different colors.
+    You will be prompted to choose a color from the options: red, green, blue, yellow, and brown.
+    After entering your color choice, input the text you wish to display in that color.
+    The program will print your text in the selected color, or notify you if the color choice is invalid.
