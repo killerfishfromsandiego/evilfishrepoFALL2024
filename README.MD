@@ -20,11 +20,7 @@ How to Run
     Clone the repository or download the script.
     Open your terminal or command prompt.
     Navigate to the directory where the script is located.
-    Run the script using the command:
-
-    bash
-
-    python mad_libs.py
+    Run the script using the command: python mad_libs.py
 
 User Instructions
 
@@ -60,11 +56,26 @@ How to Run
     Clone the repository or download the script.
     Open your terminal or command prompt.
     Navigate to the directory where the script is located.
-    Run the script using the command:
-
-    bash
-
-python powerball_generator.py
+    Run the script using the command: python powerball_generator.py
 
 GPTPROGRAM3.py NOTES: 
-v
+Number Guessing Game
+Overview
+
+This project implements a simple number guessing game where the computer selects a secret number between 1 and 10. The user attempts to guess the number, receiving feedback until they guess correctly.
+Features
+
+    Engaging gameplay with user input.
+    Provides feedback on guesses (too low or too high).
+    Simple and interactive interface.
+
+Requirements
+
+    Python 3.x
+
+How to Run
+
+    Clone the repository or download the script.
+    Open your terminal or command prompt.
+    Navigate to the directory where the script is located.
+    Run the script using the command: python number_guessing_game.py

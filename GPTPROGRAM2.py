@@ -20,4 +20,3 @@ def generate_powerball_numbers():
 
 # Run the PowerBall number generator
 generate_powerball_numbers()
-#test
