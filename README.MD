@@ -41,3 +41,29 @@ User Instructions
 
 
 GPTPROGRAM2.py NOTES:
+PowerBall Number Generator
+Overview
+
+This project generates random lottery numbers for PowerBall tickets. Players can use the generated numbers to participate in the lottery, which requires selecting six numbers: five from a pool of white balls numbered 1-69 and one from a pool of red balls numbered 1-26.
+Features
+
+    Randomly generates six PowerBall numbers.
+    Provides formatted output for easy reading.
+    Utilizes Python's random module for number generation.
+
+Requirements
+
+    Python 3.x
+
+How to Run
+
+    Clone the repository or download the script.
+    Open your terminal or command prompt.
+    Navigate to the directory where the script is located.
+    Run the script using the command:
+
+    bash
+
+python powerball_generator.py
+
+GPTPROGRAM3.py NOTES:
