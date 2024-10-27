@@ -66,4 +66,5 @@ How to Run
 
 python powerball_generator.py
 
-GPTPROGRAM3.py NOTES:
+GPTPROGRAM3.py NOTES: 
+v
