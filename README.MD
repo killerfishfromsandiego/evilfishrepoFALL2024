@@ -100,8 +100,7 @@ How to Run
     Clone the repository or download the script.
     Open your terminal or command prompt.
     Navigate to the directory where the script is located.
-    Run the script using the command
-    python trivia_game.py
+    Run the script using the command: python trivia_game.py
 
 
 GPTPROGRAM5.py NOTES:
@@ -124,11 +123,7 @@ How to Run
     Clone the repository or download the script.
     Open your terminal or command prompt.
     Navigate to the directory where the script is located.
-    Run the script using the command:
-
-    bash
-
-    python color_text.py
+    Run the script using the command:  python color_text.py
 
 User Instructions
 
@@ -136,3 +131,36 @@ User Instructions
     You will be prompted to choose a color from the options: red, green, blue, yellow, and brown.
     After entering your color choice, input the text you wish to display in that color.
     The program will print your text in the selected color, or notify you if the color choice is invalid.
+
+
+GPTPROGRAM6.py NOTES:
+Bank Account Management System
+Overview
+
+This program allows users to manage a bank account interactively. Users can deposit money, withdraw money, and check their account balance through a simple command-line interface.
+Features
+
+    A BankAccount class to handle account operations.
+    Methods for depositing, withdrawing, and checking the balance.
+    An interactive loop that lets users perform multiple actions until they choose to exit.
+
+Requirements
+
+    Python 3.x
+
+How to Run
+
+    Clone the repository or download the script.
+    Open your terminal or command prompt.
+    Navigate to the directory where the script is located.
+    Run the script using the command: python bank_account.py
+
+User Instructions
+
+    Start the program by entering your account number when prompted.
+    Choose one of the following options:
+        Deposit money: Enter an amount to add to your balance.
+        Withdraw money: Enter an amount to subtract from your balance.
+        Check balance: View your current balance.
+        Exit: End the program.
+    Repeat actions as desired until you decide to exit.
